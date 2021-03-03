@@ -1,6 +1,14 @@
 Project: ResumePractice
 User: ad321196
 Last Updated: 3/3/2021
+Version: 0.1.3
+
+Patch Notes:
+- Centered the header
+- Added space below body
+- Added footer
+
+Code Details
 
 H1 - Name
 H2 - N.A.
