@@ -1,12 +1,14 @@
 Project: ResumePractice
 User: ad321196
 Last Updated: 3/4/2021
-Version: 0.1.4
+Version: 0.1.5 Alpha
 
 Patch Notes:
-- Removed footer content
+- Added version heading to all files
+- Added last updated heading to all files
+- Changed all fonts to Helvectia
 
-Code Details
+Code Details:
 
 H1 - Name
 H2 - N.A.

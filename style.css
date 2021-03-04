@@ -1,18 +1,32 @@
+//Version 0.1.5 Alpha
+//Last Updated: 3/4/21
 h1 {
-  font: Times New Roman;
+  font-family: Helvectia, sans-serif;
 
   margin-bottom: -12px;
 }
 
+h3 {
+  font-family: Helvectia, sans-serif;
+}
+
 h4 {
-  font: Times New Roman;
+  font-family: Helvectia, sans-serif;
 
   margin-bottom: -12px;
 }
 
 h5 {
-  font: Times New Roman;
+  font-family: Helvectia, sans-serif;
 
   margin-bottom: -12px;
   margin-top: 12px;
+}
+
+p {
+  font-family: helvectia, sans-serif;
+}
+
+li {
+  font-family: Helvectia, sans-serif;
 }
